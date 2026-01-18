@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+python-jose
+passlib[bcrypt]
+pydantic
+python-dotenv
+httpx
+redis
+chromadb
+sentence-transformers
+pypdf
+pdfplumber
+slowapi
